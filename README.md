@@ -17,7 +17,7 @@
 (Note: These requirements are fulfilled by following **Setup**)  
  
 ## Setup
-1. $ git clone https://github.com/NolanRudolph/CornaVirusMLPrediction.git
+1. $ git clone https://github.com/jacobian0208/Coronavirus.git
 2. $ cd CoronaVirusMLPrediction
 3. $ bash setup.sh
   
